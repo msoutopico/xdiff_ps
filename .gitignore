@@ -1,0 +1,14 @@
+__pycache__
+send-email.sh
+message.txt
+password.txt
+xdiff_error_log.txt
+relativepaths_test.py
+email/*
+config/*
+eb-flash_steps_for_xdiff.xlsx
+todo.txt
+chuleta_git.txt
+_Archive/
+get-pip.py
+

@@ -18,4 +18,3 @@ data.db
 __pycache__/
 *.pyc
 xdiff_error_log.txt
-

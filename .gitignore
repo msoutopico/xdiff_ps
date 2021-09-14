@@ -12,3 +12,10 @@ chuleta_git.txt
 _Archive/
 get-pip.py
 
+*py.*.py
+*/*py.*.py
+data.db
+__pycache__/
+*.pyc
+xdiff_error_log.txt
+

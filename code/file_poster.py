@@ -114,7 +114,7 @@ def post_to_xdiff(path_pair):
 
 	print("path_pair is " + str(path_pair))
 
-	# compose log array
+	# compose log
 	log = []
 	subj = "New report"
 	log4pm = []
